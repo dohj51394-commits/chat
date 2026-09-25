@@ -1,0 +1,6 @@
+{
+  "name": "Chat",
+  "description": "Production-ready Android messaging app featuring real-time chats, voice and video calls, updates, communities, Paystack subscriptions, Supabase integration, and APK readiness.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
